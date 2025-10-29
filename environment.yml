@@ -1,0 +1,11 @@
+name: AI_Intelligence_Core
+dependencies:
+  - python=3.10
+  - pip
+  - pip:
+    - numpy
+    - opencv-python
+    - torch
+    - torchvision
+    - librosa
+    - matplotlib
